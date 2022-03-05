@@ -37,7 +37,8 @@ export default function Home() {
                 </div>
 
                 {/* Line */}
-                <hr className='text-dark-blue(line)'></hr>
+                
+                <hr className=' border-soft-blue'></hr>
 
                 {/* Bottom portion */}
                 <div className='flex justify-start items-center space-x-1 text-xs'>
